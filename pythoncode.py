@@ -1,3 +1,6 @@
+#======================================================== 
+#FOR COLAB CODE
+
 from google.colab import drive
 drive.mount('/content/drive')
 
@@ -33,6 +36,8 @@ import pyspark
 spark_version = pyspark.__version__
 print("Apache Spark 버전 확인: " + spark_version)
 
+#FOR COLAB CODE END
+#=======================================================================
 
 from pyspark.ml.feature import Tokenizer, HashingTF, IDF
 from pyspark.ml import Pipeline
