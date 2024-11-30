@@ -18,8 +18,9 @@ HOW TO RUN IT?
 =============================================
 
 1.DOWNLOAD
-spark-3.4.0-bin-hadoop3.tgz
-https://www.kaggle.com/datasets/aadyasingh55/fake-news-classification datasets.
+spark-3.4.0-bin-hadoop3.tgz  
+AND
+ https://www.kaggle.com/datasets/aadyasingh55/fake-news-classification datasets.
 
 2. upload all of them on Google drive default location
 
